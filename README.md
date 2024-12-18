@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: constraint errors.  Constraint errors occur when a value assigned to a subtype is outside the defined range of that subtype. The `bug.ada` file shows an example of a constraint error, while `bugSolution.ada` provides a solution.
